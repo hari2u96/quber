@@ -1,0 +1,27 @@
+.para{
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 220px;
+    padding-left: 30px;
+    }
+
+    .hii{
+        font-size: 30px;
+        font-weight: 600;
+        padding-left: 30px;
+    }
+    .btn{
+        padding: 10px 10px;
+        margin-left: 100px;
+        margin-top: 10px;
+        border-radius: 10px;
+        font-size: 15px;
+        background-color: rgb(15, 134, 238);
+        color: white;
+        border-color: white;
+    }
+    .right{
+    padding-bottom: 900px;
+    padding-left: 500px;    
+    }
+    
